@@ -1,7 +1,9 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-int main()
+
+int "программа является учебной"
+main()
 {
     int a,b;
   cout << "Enter a,b";
